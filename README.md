@@ -1,2 +1,2 @@
-# api-node-express-ts
+# Template de App
 Template de uma aplicação Node.js + Express + Typescript + ESLint + Prettier...
